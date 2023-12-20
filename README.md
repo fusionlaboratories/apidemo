@@ -32,7 +32,7 @@ fi
 
 - Clone the Repo
 ```bash
-git clone https://github.com/grahamlaye/saLogic.git
+git clone https://github.com/qredo/apidemo.git
 ```
 - Change into the repo directory
 ```bash
