@@ -36,7 +36,7 @@ git clone https://github.com/grahamlaye/saLogic.git
 ```
 - Change into the repo directory
 ```bash
-cd saLogic
+cd apidemo
 ```
 - Run the setup.bash script. **IMPORTANT**: Please run this script as per the example below. Typing "bash setup.bash" or "./setup.bash" results in errors.
 ```bash
