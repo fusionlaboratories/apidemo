@@ -70,18 +70,18 @@ Initiate a transaction using your own code or the Postman examples cited in the 
 For example:
 ```json
 {
-"broadcast": true,
-"chainID": "5",
-"from": "your_web3_api_wallet_address",
-"gas": "",
-"input": "",
-"maxFeePerGas": "",
-"maxPriorityFeePerGas": "",
-"nonce": "",
-"note": "",
-"description": "",
-"to": "destination_wallet_address",
-"value": "value_in_wei"
+    "broadcast": true,
+    "chainID": "5",
+    "from": "your_web3_api_wallet_address",
+    "gas": "",
+    "input": "",
+    "maxFeePerGas": "",
+    "maxPriorityFeePerGas": "",
+    "nonce": "",
+    "note": "",
+    "description": "",
+    "to": "destination_wallet_address",
+    "value": "value_in_wei"
 }
 ```
 
@@ -95,18 +95,18 @@ Consider changing the chainID in your transaction request to a known mainnet. Fo
 
 ```json
 {
-"broadcast": true,
-"chainID": "1",
-"from": "your_web3_api_wallet_address",
-"gas": "",
-"input": "",
-"maxFeePerGas": "",
-"maxPriorityFeePerGas": "",
-"nonce": "",
-"note": "",
-"description": "",
-"to": "destination_wallet_address",
-"value": "value_in_wei"
+    "broadcast": true,
+    "chainID": "1",
+    "from": "your_web3_api_wallet_address",
+    "gas": "",
+    "input": "",
+    "maxFeePerGas": "",
+    "maxPriorityFeePerGas": "",
+    "nonce": "",
+    "note": "",
+    "description": "",
+    "to": "destination_wallet_address",
+    "value": "value_in_wei"
 }
 ```
 
