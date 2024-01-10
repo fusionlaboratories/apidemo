@@ -51,9 +51,9 @@ For increased security, we recommend using AWS Secrets Manager where possible. I
 
 ```json
 {
-"apiKey": "apiKey",
-"apiSecret": "apiSecret",
-"workspaceID": "workspaceID"
+    "apiKey": "apiKey",
+    "apiSecret": "apiSecret",
+    "workspaceID": "workspaceID"
 }
 ```
 If you select **env** the setup script will:
