@@ -1,3 +1,8 @@
+/**
+ * This JavaScript code is released into the public domain under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
+ * For more information, see https://creativecommons.org/publicdomain/zero/1.0/
+ */
+
 const WebSocket = require('ws');
 const CryptoJS = require('crypto-js');
 const evmTestnets = require('./evmTestnets.json');
