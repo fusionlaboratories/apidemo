@@ -59,7 +59,6 @@ if [[ $secretChoice == "aws" ]]; then
     export secretsName
 
 elif [[ $secretChoice == "env" ]]; then
-
     # Set environment variables for this session only
     read -p "Enter API Key: " apiKey
     export apiKey
